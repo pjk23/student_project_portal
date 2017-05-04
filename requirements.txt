@@ -1,0 +1,5 @@
+Requiremets:
+
+Java 		: jdk-1.8+
+Oracle DB	: XE (11g)
+Apache Tomact 	: 7.x or higher
